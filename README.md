@@ -6,6 +6,8 @@ Openshift为我们提供了免费的容器服务，我们不应该滥用它。�
 
 Openshift的网络并不稳定，部署前请三思。
 
+shishila
+
 镜像
 DockerHub的镜像：设定
 单纯地使用Websocket
